@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="cs-454-starter-fall-2015-master">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="cs-454-starter-fall-2015-master"/>
+        <property name="java-output-path" value="/cs-454-starter-fall-2015-master/bin"/>
+    </wb-module>
+</project-modules>
